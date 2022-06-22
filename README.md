@@ -22,21 +22,23 @@ Contact:  dgajda.it@gmail.com
 - C
 - Python
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExaggeratedRumors&show_icons=true&locale=en&layout=compact"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExaggeratedRumors&show_icons=true&locale=en&layout=compact&theme=synthwave"/></p>
 &nbsp;
 
 ## Additional technologies whose basics I have learned
 
-- SciKit-learn
+- SciKit-learn, Asyncio, Jupyter
 - VisualBasic, VBA
 - C++
 - TypeScript
 - Assembler
 - Jenkins
+- vhdl
+- matlab
 
 &nbsp;
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ExaggeratedRumors&show_icons=true&locale=en" alt="Rybski113" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ExaggeratedRumors&show_icons=true&theme=synthwave"/></p>
 
 
 
