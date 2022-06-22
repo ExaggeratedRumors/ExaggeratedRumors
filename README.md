@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">ExaggeratedRumors Repo</h1>
 
-<!--
-**ExaggeratedRumors/ExaggeratedRumors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year student of computer science at the Technical University of Lodz creating applications for practical use. 
 
-Here are some ideas to get you started:
+Contact:  dgajda.it@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies in which I would like to develop
+
+- Jetpack, Jetpack Compose, Compose Desktop
+- Ktor
+- FreeMarker
+- Android
+- KotlinDL
+- RxKotlin
+
+
+## Technologies used in my projects
+
+- Android, Java, Kotlin
+- SQLite
+- Angular, jQuerry, Bootstrap
+- C
+- Python
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExaggeratedRumors&show_icons=true&locale=en&layout=compact"/></p>
+&nbsp;
+
+## Additional technologies whose basics I have learned
+
+- SciKit-learn
+- VisualBasic, VBA
+- C++
+- TypeScript
+- Assembler
+- Jenkins
+
+&nbsp;
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ExaggeratedRumors&show_icons=true&locale=en" alt="Rybski113" /></p>
+
+
+
