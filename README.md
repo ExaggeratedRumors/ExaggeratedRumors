@@ -8,7 +8,6 @@ Contact:  dgajda.it@gmail.com
 
 - Jetpack, Jetpack Compose, Compose Desktop
 - Ktor
-- FreeMarker
 - Android
 - KotlinDL
 - RxKotlin
