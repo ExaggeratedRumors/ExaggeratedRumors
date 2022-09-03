@@ -8,6 +8,7 @@ Contact:  dgajda.it@gmail.com
 
 - Jetpack, Jetpack Compose, Compose Desktop
 - Ktor
+- Spring
 - Android
 - KotlinDL
 - RxKotlin
@@ -16,9 +17,7 @@ Contact:  dgajda.it@gmail.com
 ## Technologies used in my projects
 
 - Android, Java, Kotlin
-- SQLite
 - Angular, jQuerry, Bootstrap
-- C
 - Python
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExaggeratedRumors&show_icons=true&locale=en&layout=compact&theme=synthwave"/></p>
@@ -26,14 +25,17 @@ Contact:  dgajda.it@gmail.com
 
 ## Additional technologies whose basics I have learned
 
-- SciKit-learn, Asyncio, Jupyter
+- SciKit-learn, Keras
+- Asyncio
 - VisualBasic, VBA
-- C++
+- C, C++
+- SQLite
 - TypeScript
 - Assembler
 - Jenkins
 - vhdl
 - matlab
+- bash, wsf
 
 &nbsp;
 
