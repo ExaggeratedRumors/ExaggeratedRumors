@@ -25,17 +25,14 @@ Contact:  dgajda.it@gmail.com
 
 ## Additional technologies whose basics I have learned
 
-- SciKit-learn, Keras
-- Asyncio
-- VisualBasic, VBA
-- C, C++
-- SQLite
-- TypeScript
-- Assembler
+- SciKit-learn, Keras, Asyncio
+- VisualBasic, VBA, shell, wsf
+- Assembler, C, C++
+- SQLite, MySql
+- REST
 - Jenkins
 - vhdl
-- matlab
-- bash, wsf
+- Matlab
 
 &nbsp;
 
