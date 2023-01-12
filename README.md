@@ -20,7 +20,7 @@ Contact:  dgajda.it@gmail.com
 - Angular, jQuerry, Bootstrap
 - Python
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExaggeratedRumors&show_icons=true&locale=en&layout=compact&theme=synthwave"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExaggeratedRumors"/></p>
 &nbsp;
 
 ## Additional technologies whose basics I have learned
