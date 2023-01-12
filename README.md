@@ -12,14 +12,11 @@ Contact:  dgajda.it@gmail.com
 - KotlinDL
 - RxKotlin
 
-
 ## Technologies used in my projects
 
 - Android, Java, Kotlin
 - Angular, jQuerry, Bootstrap
 - Python
-
-&nbsp;
 
 ## Additional technologies whose basics I have learned
 
@@ -27,7 +24,5 @@ Contact:  dgajda.it@gmail.com
 - VBA, wsf
 - Assembler, C, C++
 - SQLite, MySql
-
-&nbsp;
 
 
