@@ -4,29 +4,29 @@ I am a first-year student of computer science at the Technical University of Lod
 
 Contact:  dgajda.it@gmail.com
   
+## Technologies used in my projects
+```python
+- Android, Java, Kotlin
+- Compose Desktop
+- Ktor
+- Angular
+- Python, Bokeh
+```
 
 ## Technologies in which I would like to develop
 ```yaml
-- Jetpack, Jetpack Compose, Compose Desktop
+- Jetpack Compose, Compose Desktop
 - Ktor, Spring
 - Android
 - KotlinDL
 - RxKotlin
 ```
-  
-## Technologies used in my projects
-```yaml
-- Android, Java, Kotlin
-- Compose Desktop
-- Ktor
-- Angular, jQuerry, Bootstrap
-- Python
-```
 
 ## Additional technologies whose basics I have learned
-```yaml
-- SciKit-learn, Keras
-- VBA, wsf
+```kotlin
+- SciKit-Learn, Keras
+- VBA, WSF
 - Assembler, C, C++
 - SQLite, MySql
+- Lua, Matlab
 ```
