@@ -1,8 +1,6 @@
 <h1 align="center">ExaggeratedRumors Repo</h1>
 
-I am a first-year student of computer science at the Technical University of Lodz creating applications for practical use. 
-
-Contact:  dgajda.it@gmail.com
+I am a second-year student of computer science at the University of Technology in Lodz.
   
 ## Technologies used in my projects
 ```python
@@ -21,7 +19,7 @@ Contact:  dgajda.it@gmail.com
 - RxKotlin
 ```
 
-## Additional technologies whose basics I have learned
+## Additional technology stack, the basics of which I learned
 ```kotlin
 - JavaFx
 - Python, Bokeh, SciKit-Learn, Keras
