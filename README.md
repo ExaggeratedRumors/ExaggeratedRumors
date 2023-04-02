@@ -6,11 +6,10 @@ Contact:  dgajda.it@gmail.com
   
 ## Technologies used in my projects
 ```python
-- Android, Java, Kotlin
+- Android, Kotlin, Java
 - Compose Desktop
 - Ktor
 - Angular
-- Python, Bokeh
 ```
 
 ## Technologies in which I would like to develop
@@ -24,9 +23,13 @@ Contact:  dgajda.it@gmail.com
 
 ## Additional technologies whose basics I have learned
 ```kotlin
-- SciKit-Learn, Keras
-- VBA, WSF
+- JavaFx, AWT, Swing
+- Python, Bokeh, SciKit-Learn, Keras
+- TypeScript, Angular
 - Assembler, C, C++
-- SQLite, MySql
-- Lua, Matlab
+- SQLite, Transact-SQL
+- Lua, Matlab, VBA
+- WSF, Shell
+- Unity, 3ds max, CAD
+- LTSpice, vhdl
 ```
