@@ -30,6 +30,6 @@ Contact:  dgajda.it@gmail.com
 - SQLite, Transact-SQL
 - Lua, Matlab, VBA
 - WSF, Shell
-- Unity, 3ds max, CAD
-- LTSpice, vhdl
+- Unity, CAD
+- LTSpice, VHDL
 ```
