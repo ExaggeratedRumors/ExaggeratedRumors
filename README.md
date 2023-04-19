@@ -10,9 +10,9 @@ I am a second-year student of computer science at the University of Technology i
 
 ## Technologies in which I would like to develop
 ```yaml
+- Android
 - Jetpack Compose, Compose Desktop
 - Ktor, Spring
-- Android
 - KotlinDL
 - RxKotlin
 ```
