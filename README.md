@@ -5,7 +5,7 @@ I am a second-year student of computer science at the University of Technology i
 - Android
 - Kotlin, Compose Desktop, Jetpack Compose
 - Spring, Ktor
-- Java, AWT, Swing, libGdx
+- Java, AWT, Swing, LibGdx
 ```
 
 ## Technologies in which I would like to develop
