@@ -3,9 +3,9 @@ I am a second-year student of computer science at the University of Technology i
 ## Technologies used in my projects
 ```python
 - Android
-- Kotlin, Compose Desktop
-- Java, AWT, Swing
-- Ktor
+- Kotlin, Compose Desktop, Jetpack Compose
+- Spring, Ktor
+- Java, AWT, Swing, libGdx
 ```
 
 ## Technologies in which I would like to develop
