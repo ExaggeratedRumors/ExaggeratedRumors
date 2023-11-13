@@ -1,6 +1,4 @@
-I am a second-year student of computer science at the University of Technology in Lodz.
-  
-## Technologies used in my projects
+  ## Technologies used in my projects
 ```python
 - Android
 - Kotlin, Compose Desktop, Jetpack Compose
