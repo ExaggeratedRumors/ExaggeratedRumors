@@ -7,7 +7,7 @@
 - Flutter
 ```
 
-## My analytic stack:
+## My analytics stack:
 ```kotlin
 - Python
 - Bokeh, Plotly
