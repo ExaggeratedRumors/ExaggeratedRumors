@@ -1,29 +1,25 @@
-  ## Technologies used in my projects
+  ## My mobile/backend stack:
 ```python
-- Android
-- Kotlin, Compose Desktop, Jetpack Compose
-- Spring, Ktor
-- Java, AWT, Swing, LibGdx
-```
-
-## Technologies in which I would like to develop
-```yaml
-- Android
+- Android, Java, Kotlin
 - Jetpack Compose, Compose Desktop
-- Ktor, Spring
-- KotlinDL
-- RxKotlin
+- Spring
+- Ktor
+- Flutter
 ```
 
-## Additional technology stack, the basics of which I learned
+## My analytic stack:
 ```kotlin
-- JavaFx
-- Python, Bokeh, Plotly, SciKit-Learn, SciKit-Image, CV2, Keras
-- TypeScript, Angular
-- Assembler, C, C++
-- SQLite, Transact-SQL, PLSQL, MySQL
-- Lua, Matlab, VBA
-- WSF, Shell
-- Unity, CAD
-- LTSpice, VHDL
+- Python
+- Bokeh, Plotly
+- Scikit-Learn, Scikit-Image
+- CV2
+- Keras
+```
+
+## My commercial projects:
+```yaml
+- tester-kit - desktop environment for testers to simulate game characters [Java, API-based].
+- matchmaking-simulator - desktop environment for testers to simulate matchmaking [Kotlin].
+- skirmishes-summary - script demonstrating current data of class-relation state [Pytho, Bokeh].
+- potion-tally - one-shot script demonstrating the use of items in game [Python, Bokeh].
 ```
