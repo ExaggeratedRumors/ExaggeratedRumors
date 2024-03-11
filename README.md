@@ -20,6 +20,6 @@
 ```yaml
 - tester-kit - desktop environment for testers to simulate game characters [Java, API-based].
 - matchmaking-simulator - desktop environment for testers to simulate matchmaking [Kotlin].
-- skirmishes-summary - script demonstrating current data of class-relation state [Pytho, Bokeh].
+- skirmishes-summary - script demonstrating current data of class-relation state [Python, Bokeh].
 - potion-tally - one-shot script demonstrating the use of items in game [Python, Bokeh].
 ```
