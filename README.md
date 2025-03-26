@@ -13,7 +13,7 @@ Docker project for watermarking images based on Ktor services.
 ## <a href="https://github.com/ExaggeratedRumors/memofy">memofy</a>
 Task organizer for android based on Android Jetpack modules. 
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## <a href="https://github.com/ExaggeratedRumors/weather-check">weather-check</a>
 Weather app based on OkHttp.
