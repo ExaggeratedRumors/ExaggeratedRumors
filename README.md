@@ -43,5 +43,5 @@ Simple bot for Discord platform based on JDA.
 ## <a href="https://github.com/ExaggeratedRumors/distribution-visualizer">distribution-visualizer</a>
 A program to demonstrate the behavior of probability distributions based on early version of Desktop Compose (Compose Multiplatform).
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
