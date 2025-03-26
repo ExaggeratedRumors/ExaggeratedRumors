@@ -50,5 +50,5 @@ ______________________________________
 
 
 Technologies i've been also worked with:
-- java, spring, ktor
+- java, spring
 - python, scikit-learn, bokeh
