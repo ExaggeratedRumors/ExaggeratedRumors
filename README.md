@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ExaggeratedRumors/demooder/master/refs/logo.png" width="200" alt="logo"/> 
+    <img src="https://raw.githubusercontent.com/ExaggeratedRumors/demooder/master/refs/logo.png" width="200" alt="logo1"/> 
 </p>
 
 I practice mobile app programming, web apps and machine learning.
