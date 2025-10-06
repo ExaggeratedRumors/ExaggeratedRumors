@@ -46,11 +46,3 @@ Mobile application and Spring server with model predicting apartments rent price
 A program to demonstrate the behavior of probability distributions based on early version of Desktop Compose (Compose Multiplatform).
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-______________________________________
-
-
-Technologies i've been also worked with:
-- java, spring
-- python, scikit-learn, bokeh
