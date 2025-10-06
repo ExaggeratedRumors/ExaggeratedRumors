@@ -25,7 +25,7 @@ Calculator for android system.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## <a href="https://github.com/ExaggeratedRumors/demooder">demooder</a> [in progress]
+## <a href="https://github.com/ExaggeratedRumors/demooder">demooder</a>
 Emotions classification project containing model training and android application based on Jetpack Compose framework.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-green?style=for-the-badge&logo=jetpack-compose&logoColor=white)
