@@ -5,6 +5,11 @@
 I practice mobile app programming, web apps and machine learning.
 Please visit my projects:
 
+## <a href="https://github.com/ExaggeratedRumors/demooder">demooder</a>
+Emotions classification project containing model training and android application based on Jetpack Compose framework.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-green?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
 ## <a href="https://github.com/ExaggeratedRumors/image-marking-system">image-marking-system</a>
 Docker project for watermarking images based on Ktor services.
 
@@ -25,22 +30,15 @@ Calculator for android system.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## <a href="https://github.com/ExaggeratedRumors/demooder">demooder</a>
-Emotions classification project containing model training and android application based on Jetpack Compose framework.
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-green?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-
 ## <a href="https://github.com/ExaggeratedRumors/alphanumeric-recognizer">alphanumeric-recognizer</a>
 Web application based on REST with neural network libraries for alphanumeric recognition task.
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-
 ## <a href="https://github.com/Nerekk/PrediHome-frontend">predihome</a>
 Mobile application and Spring server with model predicting apartments rent price. 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![scikitlearn](https://img.shields.io/badge/scikit_learn-blue?style=for-the-badge&logo=scikitlearn&logoColor=orange)
-
 
 ## <a href="https://github.com/ExaggeratedRumors/distribution-visualizer">distribution-visualizer</a>
 A program to demonstrate the behavior of probability distributions based on early version of Desktop Compose (Compose Multiplatform).
